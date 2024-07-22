@@ -45,6 +45,20 @@ TodoList를 통해 상태관리 패키지를 비교해보며 학습한 내용을
 
 <br/>
 
+## Bloc
+
+### Architecture
+
+
+<br/>
+
+
+### Feature
+
+<br/>
+
+
+
 ## GetX
 
 ### Architecture
