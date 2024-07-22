@@ -1,4 +1,4 @@
-import '../../../domain/todo_entity.dart';
+import '../../../../domain/todo_entity.dart';
 
 abstract interface class ILocalDataSource {
   Future<void> saveTodos(List<TodoEntity> todos); // 전체 데이터를 저장

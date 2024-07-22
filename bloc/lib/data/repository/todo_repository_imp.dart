@@ -1,4 +1,4 @@
-import 'package:todo_state_management/data/local/local_data_source_interface.dart';
+import 'package:todo_state_management/data/local/data_source/local_data_source_interface.dart';
 
 import '../../domain/todo_entity.dart';
 import '../../domain/todo_repository_interface.dart';
