@@ -2,8 +2,8 @@ import 'dart:convert';
 import 'shared_preference_service.dart';
 
 import '../../../domain/todo_entity.dart';
-import '../../../util/todo_error.dart';
-import '../../../util/todo_exception.dart';
+import '../../util/todo_error.dart';
+import '../../util/todo_exception.dart';
 import '../local/local_data_source_interface.dart';
 
 final class LocalDataSource implements ILocalDataSource {
