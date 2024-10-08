@@ -1,8 +1,6 @@
 import 'package:equatable/equatable.dart';
-import 'package:flutter/foundation.dart';
 import 'package:uuid/uuid.dart';
 
-@immutable
 final class TodoEntity extends Equatable {
   final String id;
   final String description;
@@ -11,13 +9,16 @@ final class TodoEntity extends Equatable {
     required this.description, required String id,
   }) : id = const Uuid().v4();
 
-  const TodoEntity.withId({
+  TodoEntity.withId({
     required this.id,
     required this.description,
   });
 
   @override
   List<Object?> get props => [id, description];
+
+  @override
+  String toString() => 'Todo(id: $id, description: $description)';
 
   factory TodoEntity.fromJson(Map<String, dynamic> json) {
     return TodoEntity.withId(

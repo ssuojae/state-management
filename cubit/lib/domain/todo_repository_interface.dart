@@ -1,9 +1,7 @@
-import 'todo_entity.dart';
+import '../domain/todo_entity.dart';
 
-abstract interface class ITodoRepository{
-  Future<List<TodoEntity>> fetchTodos();
-  Future<void> addTodo(TodoEntity todo);
-  Future<void> updateTodo(TodoEntity updatedTodo);
-  Future<void> deleteTodo(String id);
-  Future<void> clearTodos();
+abstract interface class ITodoRepository {
+  Stream<List<TodoEntity>> requestTodos();
+  Future<void> saveTodos(List<TodoEntity> todos);
+  Future<void> clearTodos(); 
 }

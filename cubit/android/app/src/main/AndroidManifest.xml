@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="cubit"
+        android:label="todoz_bloc"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
