@@ -2,36 +2,31 @@
 
 <br/>
 
-#### 1.  bloc 상태관리 패턴을 이용한 todo list 구현
+#### 상태관리 패턴을 이용한 todo list 구현
 
 <br/>
 
-#### 2. 의존성 다이어그램 - Cubit
+#### 1. 의존성 다이어그램 - Cubit
 
 <img width="700" alt="image" src="https://github.com/next-pro-dev/next-pro-flutter-pr-test-1/assets/126137760/5a1fdaf4-ef38-47af-9575-502b9536ed53">
 
 <br/>
 <br/>
 
-#### 3. 의존성 다이어그램 - Bloc
+#### 2. 의존성 다이어그램 - Bloc
 
 <img width="700" alt="image" src="https://github.com/next-pro-dev/next-pro-flutter-pr-test-1/assets/126137760/70ee59b2-610a-44d9-ab1b-e8c0801fe58e">
 
 <br/>
 <br/>
 
-#### 4. 의존성 다이어그램 - GetX
+#### 3. 의존성 다이어그램 - GetX
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/1a883ad2-241a-49f9-ae0a-6ece805df4e6">
 
 
 
 <br/>
-<br/>
-
-## ✏️ PR Point
-
-#### 
 
 
 
