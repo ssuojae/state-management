@@ -70,4 +70,4 @@
 
 ## 📸 Screenshot 
 
-https://github-production-user-asset-6210df.s3.amazonaws.com/126137760/347367470-a71a9ae4-4b28-41f7-b012-dc737dacc913.MP4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241009%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241009T122331Z&X-Amz-Expires=300&X-Amz-Signature=a2c9207477c8ce91f9ecf179eb532a8429bddc1d6c6b4a7685e416037c4e781c&X-Amz-SignedHeaders=host
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/0a2c2567-ce6d-4849-8016-3fc8f6d3956a">
