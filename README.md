@@ -8,21 +8,21 @@
 
 #### 1. 의존성 다이어그램 - Cubit
 
-<img width="700" alt="image" src="https://github.com/next-pro-dev/next-pro-flutter-pr-test-1/assets/126137760/5a1fdaf4-ef38-47af-9575-502b9536ed53">
+<img src="https://github.com/user-attachments/assets/a85d535f-24bd-4406-89bf-bb371cfc03a9" width="700">
 
 <br/>
 <br/>
 
 #### 2. 의존성 다이어그램 - Bloc
 
-<img width="700" alt="image" src="https://github.com/next-pro-dev/next-pro-flutter-pr-test-1/assets/126137760/70ee59b2-610a-44d9-ab1b-e8c0801fe58e">
+<img src="https://github.com/user-attachments/assets/f91b9550-5013-4011-937d-9e8ea9da8c49" width="700">
 
 <br/>
 <br/>
 
 #### 3. 의존성 다이어그램 - GetX
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/1a883ad2-241a-49f9-ae0a-6ece805df4e6">
+<img src="https://github.com/user-attachments/assets/9e07bc43-4455-4b1c-a0bd-f2c9bc90ad2d" width="700">
 
 
 
@@ -70,6 +70,4 @@
 
 ## 📸 Screenshot 
 
-
-https://github.com/next-pro-dev/next-pro-flutter-pr-test-1/assets/126137760/a71a9ae4-4b28-41f7-b012-dc737dacc913
-
+https://github-production-user-asset-6210df.s3.amazonaws.com/126137760/347367470-a71a9ae4-4b28-41f7-b012-dc737dacc913.MP4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241009%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241009T122331Z&X-Amz-Expires=300&X-Amz-Signature=a2c9207477c8ce91f9ecf179eb532a8429bddc1d6c6b4a7685e416037c4e781c&X-Amz-SignedHeaders=host
